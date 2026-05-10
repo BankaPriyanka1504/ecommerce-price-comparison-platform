@@ -18,7 +18,6 @@
 
 ## Table of Contents
 
-- [Demo Screenshots](#demo-screenshots)
 - [Features](#features)
 - [Tech Stack](#tech-stack)
 - [Project Structure](#project-structure)
@@ -33,19 +32,6 @@
 
 ---
 
-## Demo Screenshots
-
-> Add screenshots of your running application here.
-
-| Home Page | Search Results | Analytics Dashboard |
-|-----------|---------------|---------------------|
-| *(screenshot)* | *(screenshot)* | *(screenshot)* |
-
-| Price History Modal | Category Browse | Wishlist & Cart |
-|---------------------|-----------------|-----------------|
-| *(screenshot)* | *(screenshot)* | *(screenshot)* |
-
----
 
 ## Features
 
